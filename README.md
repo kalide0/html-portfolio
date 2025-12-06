@@ -1,2 +1,2 @@
 # html-portfolio
-WebDev Basics with Angela Liu
+WebDev Basics with Angela Yu
